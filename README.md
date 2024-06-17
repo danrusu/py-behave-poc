@@ -28,5 +28,5 @@ pipenv install
 ### Run Behave tests
 
 ```bash
-behave src/features
+behave [path_to_feature_file]
 ```
